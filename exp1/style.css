@@ -1,0 +1,31 @@
+div{
+    padding: 20px;
+    max-width: 180px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    color: rgb(118, 69, 9); 
+    background-color: bisque;
+    border: 1px solid rgb(6, 1, 1);
+    text-align: center;
+
+    
+}
+legend{
+    max-width: 60px;
+    margin-left: 60px;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: aqua;
+}
+b{
+    color:brown;
+}
+#lol{
+    color: blue;
+}
